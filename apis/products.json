@@ -1,8 +1,8 @@
 {
   "products": [
-    { "name": "Mango", "price": "₹120/kg", "image": "https://raw.githubusercontent.com/raghuveer92/fruits-haven/main/product-images/mango.jpg" },
-    { "name": "Apple", "price": "₹180/kg", "image": "https://raw.githubusercontent.com/raghuveer92/fruits-haven/main/product-images/apple.webp" },
-    { "name": "Banana", "price": "₹60/dozen", "image": "https://raw.githubusercontent.com/raghuveer92/fruits-haven/main/product-images/banana.jpg" },
-    { "name": "Orange", "price": "₹90/kg", "image": "https://raw.githubusercontent.com/raghuveer92/fruits-haven/main/product-images/orange.jpg" }
+    { "name": "Mango", "price": "₹120/kg", "image": "product-images/mango.jpg" },
+    { "name": "Apple", "price": "₹180/kg", "image": "product-images/apple.webp" },
+    { "name": "Banana", "price": "₹60/dozen", "image": "product-images/banana.jpg" },
+    { "name": "Orange", "price": "₹90/kg", "image": "product-images/orange.jpg" }
   ]
 }
